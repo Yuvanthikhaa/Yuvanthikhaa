@@ -1,54 +1,61 @@
-# Hi there, I'm Yuvanthikhaa 👋
-
-🎓 B.Tech in Artificial Intelligence & Data Science — Sri Manakula Vinayagar Engineering College, Puducherry (CGPA: 8.75)
-
-💼 Software Engineer – Big Data Developer @ Societe Generale Global Solution Centre, Bengaluru
-
-🌱 Passionate about AI/ML, Computer Vision, and building things that work
+<!-- banner -->
+<div align="center">
+  <h1>Hey, I'm Yuvanthikhaa 👋</h1>
+  <p><em>AI & DS Engineer · Big Data Developer · Builder</em></p>
+  <a href="https://www.linkedin.com/in/yuvanthikhaa/"><img src="https://img.shields.io/badge/LinkedIn-Yuvanthikhaa-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:yuvanthikhaa@gmail.com"><img src="https://img.shields.io/badge/Email-yuvanthikhaa@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Yuvanthikhaa&style=flat-square&color=00ff88" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+```python
+class Yuvanthikhaa:
+    role     = "Software Engineer – Big Data Developer"
+    company  = "Societe Generale Global Solution Centre, Bengaluru"
+    degree   = "B.Tech – AI & Data Science (CGPA 8.75)"
+    stack    = ["Java", "Python", "SQL", "Flutter", "HTML"]
+    tools    = ["Power BI", "Tableau", "ML/CV frameworks"]
+    languages = ["English", "Tamil", "French"]
+```
 
-**Languages:** Java · Python · SQL · C · Flutter · HTML
+---
 
-**Data & Visualization:** Power BI · Tableau
+## 💼 Experience
 
-**Areas of Interest:** Big Data · Computer Vision · Mobile App Development · UI/UX
+| Role | Company | Period |
+|------|---------|--------|
+| Software Engineer – Big Data Developer | Societe Generale GSC, Bengaluru | Aug 2025 → Present |
+| Big Data Intern | Societe Generale GSC, Bengaluru | Feb 2025 → Jul 2025 |
 
 ---
 
 ## 🚀 Projects
 
-- **Live Video & Audio Analysis using Computer Vision** — AI/ML-powered generic audio/video analysis pipeline for streaming devices
-- **Terrain Recognition Model** — Image classification using MobileNetV3Large to identify terrain types from photos
-- **Calculator App** — Scientific calculator built with Flutter, supporting trig, logarithms, and advanced operations
+**🎥 Computer Vision Pipeline** — AI/ML-powered live audio/video analysis for streaming devices  
+**🗺️ Terrain Recognition Model** — Image classification using MobileNetV3Large  
+**🧮 Scientific Calculator** — Flutter app with trig, logarithms, and advanced operations  
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications & Achievements
 
-- Introduction to Machine Learning (Tamil) — NPTEL
+- 🏆 Top 30 Teams — Techgium, L&T Technology Services (Feb 2024)
+- 📢 Content Creator Lead — Google Developer Student Club (2023–2024)
+- Introduction to Machine Learning — NPTEL
 - Python for Data Science — NPTEL
 - Single Page Web Applications with AngularJS — Coursera
 - IT Specialist Java — Certiport (Pearson VUE)
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Stats
 
-- 🥇 Top 30 Teams — Techgium, L&T Technology Services (Feb 2024)
-- 📢 Content Creator Lead — Google Developer Student Club (2023–2024)
-
----
-
-## 🌐 Languages
-
-English (Full Professional) · Tamil (Native) · French (Professional Working)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuvanthikhaa&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvanthikhaa&layout=compact&theme=github_dark&hide_border=true" height="150" />
+</div>
 
 ---
 
-## 📬 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvanthikhaa-blue?logo=linkedin)](https://www.linkedin.com/in/yuvanthikhaa/)
-[![Email](https://img.shields.io/badge/Email-yuvanthikhaa@gmail.com-red?logo=gmail)](mailto:yuvanthikhaa@gmail.com)
+<div align="center"><em>⚡ Open to opportunities · Building in public · Always learning</em></div>
